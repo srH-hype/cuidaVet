@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cuidaVet</string>
+    <string name="iniciar">Inciar</string>
+    <string name="usuario">Usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="usuarioNuevo">Usuario nuevo</string>
+
+</resources>
