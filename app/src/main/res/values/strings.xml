@@ -3,6 +3,12 @@
     <string name="iniciar">Inciar</string>
     <string name="usuario">Usuario</string>
     <string name="contra">Contraseña</string>
-    <string name="usuarioNuevo">Usuario nuevo</string>
+    <string name="calendario">Calendario</string>
+    <string name="usuarioNuevo">Foro</string>
+    <string name="foro">Foro</string>
+    <string name="entrenamiento">Entrenamiento</string>
+    <string name="compras">Compras</string>
+    <string name="misMascotas">Mis mascotas</string>
+    <string name="emergencias">Emergencias</string>
 
 </resources>

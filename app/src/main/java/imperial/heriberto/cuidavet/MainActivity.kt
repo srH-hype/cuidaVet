@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val button: Button = findViewById(R.id.btn_iniciar)
         button.setOnClickListener{
-            var intent: Intent = Intent (this, LoginActivity::class.java)
+            var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)
         }
 
