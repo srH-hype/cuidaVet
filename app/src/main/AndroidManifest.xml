@@ -8,9 +8,15 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.CuidaVet">
+        android:theme="@style/Theme.CuidaVet"
+
+        >
+
         <activity
             android:name=".MenuActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MascotasActivity"
             android:exported="false" />
         <activity
             android:name=".mascotanuevaActivity"

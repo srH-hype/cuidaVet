@@ -3,11 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view"
     >
-
     <item
         android:id="@+id/menuMisMascotas"
-        android:title="@string/misMascotas"
-        />
+        android:title="@string/misMascotas"/>
 
     <item
         android:id="@+id/menuNotas"
