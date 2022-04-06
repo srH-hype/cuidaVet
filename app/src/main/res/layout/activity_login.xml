@@ -56,7 +56,6 @@
         android:layout_height="28dp"
         android:text="@string/iniciar"
         android:textSize="17sp"
-        android:fontFamily="@font/alataregular"
         android:background="@drawable/round_button"
         android:textColor="@color/white"
         android:layout_gravity="center"

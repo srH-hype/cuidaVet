@@ -15,5 +15,11 @@ class Foro2_Activity : AppCompatActivity() {
             var intent: Intent = Intent (this, ForoActivity::class.java)
             startActivity(intent)
         }
+
+        val botonmas: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_mas)
+        botonmas.setOnClickListener{
+            var intent: Intent = Intent (this, Foro3_Activity::class.java)
+            startActivity(intent)
+        }
     }
 }
