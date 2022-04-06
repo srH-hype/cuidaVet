@@ -16,6 +16,9 @@
             android:name=".ComprasActivity"
             android:exported="false" />
         <activity
+            android:name=".entrenamientoActivity"
+            android:exported="false" />
+        <activity
             android:name=".mascotanuevaActivity"
             android:exported="false" />
         <activity

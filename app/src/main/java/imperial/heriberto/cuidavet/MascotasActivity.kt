@@ -17,22 +17,22 @@ class MascotasActivity : AppCompatActivity() {
         }
 
         val button1: Button = findViewById(R.id.btn_mascota1)
-        button.setOnClickListener{
+        button1.setOnClickListener{
             var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
             startActivity(intent)
         }
         val button2: Button = findViewById(R.id.btn_mascota2)
-        button.setOnClickListener{
+        button2.setOnClickListener{
             var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
             startActivity(intent)
         }
         val button3: Button = findViewById(R.id.btn_mascota3)
-        button.setOnClickListener{
+        button3.setOnClickListener{
             var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
             startActivity(intent)
         }
         val button4: Button = findViewById(R.id.btn_mascota4)
-        button.setOnClickListener{
+        button4.setOnClickListener{
             var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
             startActivity(intent)
         }
