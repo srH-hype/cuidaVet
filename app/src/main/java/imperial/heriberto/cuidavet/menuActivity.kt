@@ -46,7 +46,6 @@ class menuActivity : AppCompatActivity() {
             var intent: Intent = Intent (this, ForoActivity::class.java)
             startActivity(intent)
         }
-        
     }
 
 
