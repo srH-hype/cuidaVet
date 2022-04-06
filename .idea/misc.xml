@@ -3,28 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.147" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/flecha.xml" value="0.147" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/flower_button.xml" value="0.13" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_button.xml" value="0.13" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_button_white.xml" value="0.13" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_edittext.xml" value="0.13" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_aviso_privacidad.xml" value="0.2" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_emergencia.xml" value="0.1956521739130435" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_menu.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_registro.xml" value="0.25" />
-        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_registro2.xml" value="0.209375" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/button_marco.xml" value="0.2725" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/flower_button.xml" value="0.2535" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_button.xml" value="0.2485" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_button_white.xml" value="0.2485" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_edittext.xml" value="0.2485" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/font/alata.xml" value="0.396875" />
-        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_aviso_privacidad.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_emergencia.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_mascotas.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_registro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_registro2.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
