@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/btn_regresar"
+        android:layout_width="122dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/flecha" />
+
+    <TextView
+        android:id="@+id/ed_foroYtips"
+        android:layout_width="200dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/round_button"
+        android:hint="@string/entrenamiento"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColorHint="@color/white"
+        android:textSize="20sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_dar"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="70dp"
+        android:text="@string/dar"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_button_white"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_sentarse"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:text="@string/setarse"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_button_white"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textAllCaps="false"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_ir"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:text="@string/ir"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_button_white"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textAllCaps="false"
+        />
+
+
+
+
+
+
+</LinearLayout>

@@ -17,7 +17,7 @@ class menuActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        val button2: Button = findViewById(R.id.btn_emergencias)
+        val button2: Button = findViewById(R.id.btn_masconta)
         button2.setOnClickListener{
             var intent: Intent = Intent (this, MascotasActivity::class.java)
             startActivity(intent)

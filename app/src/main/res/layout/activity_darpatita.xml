@@ -7,26 +7,25 @@
     android:background="@color/white">
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_flechaRegresarforo5"
+        android:id="@+id/btn_Regresar"
         android:layout_width="122dp"
         android:layout_height="30dp"
         android:layout_marginLeft="5dp"
         android:layout_marginTop="25dp"
         android:background="@drawable/flecha" />
-
     <TextView
-        android:id="@+id/tv_calendario"
+        android:id="@+id/tv_veterinario"
         android:layout_width="200dp"
         android:layout_height="40dp"
         android:layout_gravity="center"
         android:layout_marginTop="0dp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_button"
-        android:hint="@string/calendario"
+        android:hint="@string/dar"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColorHint="@color/white"
-        android:textSize="25sp" />
+        android:textSize="20sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -37,13 +36,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
             <TableRow>
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_regresarBanios"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="0sp"
+                    android:background="@drawable/regresar" />
                 <ImageView
                     android:id="@+id/iv_caminar"
                     android:layout_width="300dp"
                     android:layout_height="300dp"
-                    android:layout_marginLeft="50dp"
-                    android:src="@drawable/enero"
+                    android:layout_marginLeft="0dp"
+                    android:src="@drawable/truco"
                     android:visibility="visible" />
+
             </TableRow>
 
 
@@ -59,7 +66,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/primermesdeembarazo" />
+            android:src="@drawable/instrucciones" />
 
     </LinearLayout>
     <ImageView
@@ -68,4 +75,3 @@
         android:src="@drawable/logofondochico"
         android:layout_gravity="center"/>
 </LinearLayout>
-

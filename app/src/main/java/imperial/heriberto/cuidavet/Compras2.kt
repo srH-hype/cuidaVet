@@ -5,15 +5,14 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class mascotanuevaActivity : AppCompatActivity() {
+class Compras2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_mascotanueva)
+        setContentView(R.layout.activity_compras2)
 
-
-        val button: Button = findViewById(R.id.btn_regresarMascota)
-        button.setOnClickListener{
-            var intent: Intent = Intent (this, MascotasActivity::class.java)
+        val botonRegresar: Button = findViewById(R.id.btn_flechaRegresarArticulos)
+        botonRegresar.setOnClickListener{
+            var intent: Intent = Intent (this, ComprasActivity::class.java)
             startActivity(intent)
         }
     }

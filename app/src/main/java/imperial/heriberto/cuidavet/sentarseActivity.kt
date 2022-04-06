@@ -5,15 +5,14 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class mascotanuevaActivity : AppCompatActivity() {
+class sentarseActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_mascotanueva)
+        setContentView(R.layout.activity_sentarse)
 
-
-        val button: Button = findViewById(R.id.btn_regresarMascota)
+        val button: Button = findViewById(R.id.btn_Regresar)
         button.setOnClickListener{
-            var intent: Intent = Intent (this, MascotasActivity::class.java)
+            var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)
         }
     }

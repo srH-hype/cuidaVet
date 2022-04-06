@@ -19,6 +19,24 @@
             android:name=".MascotasActivity"
             android:exported="false" />
         <activity
+            android:name=".irActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sentarseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".darpatitaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Compras2"
+            android:exported="false" />
+        <activity
+            android:name=".ComprasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".entrenamientoActivity"
+            android:exported="false" />
+        <activity
             android:name=".mascotanuevaActivity"
             android:exported="false" />
         <activity
