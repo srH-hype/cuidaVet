@@ -10,6 +10,7 @@
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_edittext.xml" value="0.2485" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/font/alata.xml" value="0.396875" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_aviso_privacidad.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_emergencia.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_caminar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_citas_veterinario.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_darpatita.xml" value="0.36666666666666664" />
@@ -19,6 +20,7 @@
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_foro2.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_foro3.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_ir.xml" value="0.36666666666666664" />
+
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_mascotanueva.xml" value="0.36666666666666664" />
@@ -26,6 +28,21 @@
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_registro.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_registro2.xml" value="0.36666666666666664" />
+    
+        
+         <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_banios.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_calendario.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_caminar.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_drawer_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_foro2.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_mascotanueva.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_mascotas.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_menu2.xml" value="0.25" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_registro.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/activity_registro2.xml" value="0.2546875" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/layout/nav_menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/carls/OneDrive/Escritorio/AplicacionesMoviles/cuidaVet/app/src/main/res/menu/nav_menu.xml" value="0.25" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/layout/activity_sentarse.xml" value="0.36666666666666664" />
       </map>
     </option>

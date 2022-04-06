@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+    <item
+        android:id="@+id/menuMisMascotas"
+        android:title="@string/misMascotas"/>
+
+    <item
+        android:id="@+id/menuNotas"
+        android:title="@string/notas"
+        />
+    <item
+        android:id="@+id/menuCambiarUsuario"
+        android:title="@string/cambiar_usuario"
+        />
+    <item
+        android:id="@+id/menuCambiarContra"
+        android:title="@string/cambiar_contrasena"
+        />
+    <item
+        android:id="@+id/menuAvisoPrivacidad"
+        android:title="@string/aviso_de_privacidad"
+        />
+    <item
+        android:id="@+id/menuCerrarSesion"
+        android:title="@string/cerrar_sesion"
+        />
+</menu>
