@@ -10,25 +10,25 @@ class entrenamientoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_entrenamiento)
 
-        val button: Button = findViewById(R.id.btn_regresar)
+        val button: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_regresar)
         button.setOnClickListener{
             var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)
         }
 
-        val button2: Button = findViewById(R.id.btn_dar)
+        val button2: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_dar)
         button2.setOnClickListener{
             var intent: Intent = Intent (this, darpatitaActivity::class.java)
             startActivity(intent)
         }
 
-        val button3: Button = findViewById(R.id.btn_dar)
+        val button3: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_sentarse)
         button3.setOnClickListener{
             var intent: Intent = Intent (this, sentarseActivity::class.java)
             startActivity(intent)
         }
 
-        val button4: Button = findViewById(R.id.btn_ir)
+        val button4: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_ir)
         button4.setOnClickListener{
             var intent: Intent = Intent (this, irActivity::class.java)
             startActivity(intent)

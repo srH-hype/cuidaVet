@@ -4,7 +4,7 @@
     <string name="usuario">Usuario</string>
     <string name="contra">Contraseña</string>
     <string name="calendario">Calendario</string>
-    <string name="usuarioNuevo">Foro</string>
+    <string name="usuarioNuevo">Usuario Nuevo</string>
     <string name="foro">Foro</string>
     <string name="entrenamiento">Entrenamiento</string>
     <string name="compras">Compras</string>
@@ -50,6 +50,12 @@
 
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="guardar">Guardar</string>
+    <string name="nuevo_usuario">Nuevo Usuario</string>
+    <string name="usuario_actual">Usuario Actual</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="nueva_contrase_a">Nueva Contraseña</string>
+    <string name="contrasena_actual">Contraseña Actual</string>
 
 
 </resources>

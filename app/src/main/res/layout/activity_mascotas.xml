@@ -138,12 +138,9 @@
         android:id="@+id/btn_agregar"
         android:layout_width="70dp"
         android:layout_height="70dp"
-        android:background="@drawable/mas"
         android:layout_gravity="end"
         android:layout_marginTop="270dp"
-        />
-
-
+        android:background="@drawable/mas" />
 
 
 </LinearLayout>

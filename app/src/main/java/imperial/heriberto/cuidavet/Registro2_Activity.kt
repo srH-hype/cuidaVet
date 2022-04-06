@@ -10,12 +10,12 @@ class Registro2_Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registro2)
 
-        val buttonFlechaRegistro: Button = findViewById(R.id.btn_flcheaRegresar_registro2)
+        val buttonFlechaRegistro: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_flcheaRegresar_registro2)
         buttonFlechaRegistro.setOnClickListener{
             var intent: Intent = Intent (this, Registro::class.java)
             startActivity(intent)
         }
-        val buttonEmpezar: Button = findViewById(R.id.btn_empezar)
+        val buttonEmpezar: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_empezar)
         buttonEmpezar.setOnClickListener{
             var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)

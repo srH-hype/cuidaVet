@@ -11,14 +11,14 @@ class BaniosActivity : AppCompatActivity() {
         setContentView(R.layout.activity_banios)
 
 
-        val botonRegresar: Button = findViewById(R.id.btn_regresarHorarios)
+        val botonRegresar: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_regresarHorarios)
         botonRegresar.setOnClickListener{
             var intent: Intent = Intent (this, HorariosActivity::class.java)
             startActivity(intent)
         }
 
 
-        val botonSiguienteBanios: Button = findViewById(R.id.btn_siguienteVeterinario)
+        val botonSiguienteBanios: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_siguienteVeterinario)
         botonSiguienteBanios.setOnClickListener{
             var intent: Intent = Intent (this, CitasVeterinarioActivity::class.java)
             startActivity(intent)

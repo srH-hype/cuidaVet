@@ -10,7 +10,7 @@ class Foro2_Activity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_foro2)
 
-        val buttonflecha: Button = findViewById(R.id.btn_flechaRegresarForo)
+        val buttonflecha: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_flechaRegresarForo)
         buttonflecha.setOnClickListener{
             var intent: Intent = Intent (this, ForoActivity::class.java)
             startActivity(intent)

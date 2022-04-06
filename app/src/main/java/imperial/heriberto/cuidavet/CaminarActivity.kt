@@ -10,13 +10,13 @@ class CaminarActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_caminar)
 
-        val buttonflecha: Button = findViewById(R.id.btn_flechaRegresarforo3)
+        val buttonflecha: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_flechaRegresarforo3)
         buttonflecha.setOnClickListener{
             var intent: Intent = Intent (this, ForoActivity::class.java)
             startActivity(intent)
         }
 
-        val botonSiguiente: Button = findViewById(R.id.btn_siguienteHorarios)
+        val botonSiguiente: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_siguiente)
         botonSiguiente.setOnClickListener{
             var intent: Intent = Intent (this, HorariosActivity::class.java)
             startActivity(intent)

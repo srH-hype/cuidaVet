@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/white">
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_regresar"
         android:layout_width="122dp"
         android:layout_height="30dp"
@@ -33,7 +33,7 @@
         android:layout_marginTop="70dp"
         android:text="@string/dar"
         android:textAlignment="center"
-        android:textSize="40sp"
+        android:textSize="30sp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_button_white"
         android:layout_gravity="center"
@@ -58,7 +58,7 @@
         android:layout_height="100dp"
         android:text="@string/ir"
         android:textAlignment="center"
-        android:textSize="30sp"
+        android:textSize="28sp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_button_white"
         android:layout_gravity="center"

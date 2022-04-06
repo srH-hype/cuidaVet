@@ -48,7 +48,7 @@
                     android:layout_width="300dp"
                     android:layout_height="300dp"
                     android:layout_marginLeft="0dp"
-                    android:src="@drawable/truco"
+                    android:src="@drawable/truco2"
                     android:visibility="visible" />
 
             </TableRow>

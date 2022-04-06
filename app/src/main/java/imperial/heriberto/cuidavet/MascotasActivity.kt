@@ -36,5 +36,12 @@ class MascotasActivity : AppCompatActivity() {
             var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
             startActivity(intent)
         }
+        val buttonAgregar: Button = findViewById(R.id.btn_agregar)
+        buttonAgregar.setOnClickListener{
+            var intent: Intent = Intent (this, mascotanuevaActivity::class.java)
+            startActivity(intent)
+        }
+
+
     }
 }

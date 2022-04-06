@@ -9,8 +9,6 @@
 
     >
 
-
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_regresar"
         android:layout_width="50dp"
