@@ -100,7 +100,7 @@
         android:textAllCaps="false"
         />
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/ed_avisoPrivacidad"
+        android:id="@+id/btn_avisoPrivacidad"
         android:layout_width="200dp"
         android:layout_height="23dp"
         android:hint="@string/avisoPrivasidad"
