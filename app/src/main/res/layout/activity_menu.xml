@@ -192,4 +192,11 @@
 
     </TableLayout>
 
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logofondochico"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center"/>
+
 </LinearLayout>
