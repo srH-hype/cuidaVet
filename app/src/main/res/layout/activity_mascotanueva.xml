@@ -20,10 +20,9 @@
         android:layout_height="150dp"
         android:gravity="center"
         android:layout_gravity="center"
-        android:background="@drawable/entrenamiento"
+        android:background="@drawable/perrogrande"
         android:fontFamily="@font/alataregular"
         android:textAllCaps="false"
-        android:textColor="@color/white"
         android:textSize="17dp"
         />
 
@@ -38,8 +37,50 @@
         android:background="@drawable/mas"
         android:layout_gravity="center"
         android:layout_marginTop="10dp"
+        android:layout_marginLeft="70dp"
         />
 
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/ed_nombreMascota"
+        android:layout_width="170dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="30dp"
+        android:hint="@string/nombre"
+        android:textSize="17sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="14dp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_edittext"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        />
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/ed_correo"
+        android:layout_width="170dp"
+        android:layout_height="28dp"
+        android:hint="@string/edad"
+        android:textSize="17sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="14dp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_edittext"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textAllCaps="false"
+        />
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/ed_usuarioRegistro"
+        android:layout_width="170dp"
+        android:layout_height="28dp"
+        android:hint="@string/raza"
+        android:textSize="17sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="14dp"
+        android:fontFamily="@font/alataregular"
+        android:background="@drawable/round_edittext"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textAllCaps="false"/>
 
 
 
