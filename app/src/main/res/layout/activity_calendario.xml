@@ -42,7 +42,7 @@
                     android:layout_width="300dp"
                     android:layout_height="300dp"
                     android:layout_marginLeft="50dp"
-                    android:src="@drawable/Enero"
+                    android:src="@drawable/enero"
                     android:visibility="visible" />
             </TableRow>
 
@@ -59,7 +59,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/primerMesEmbarazo" />
+            android:src="@drawable/primermesembarazo" />
 
     </LinearLayout>
     <ImageView

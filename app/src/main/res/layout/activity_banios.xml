@@ -42,7 +42,7 @@
                     android:layout_width="300dp"
                     android:layout_height="300dp"
                     android:layout_marginLeft="0dp"
-                    android:src="@drawable/baños"
+                    android:src="@drawable/banios"
                     android:visibility="visible" />
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btn_siguienteVeterinario"
