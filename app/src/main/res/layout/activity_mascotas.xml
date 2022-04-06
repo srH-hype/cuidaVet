@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    >
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_regresar"
+        android:layout_width="50dp"
+        android:layout_height="70dp"
+        android:background="@drawable/regresar"
+        />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tv_mascotas"
+        android:layout_width="170dp"
+        android:layout_height="35dp"
+        android:text="@string/misMascotas"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@drawable/round_button"
+        android:fontFamily="@font/alataregular"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        />
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="3"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        >
+
+        <TableRow>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_mascota1"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:textSize="17sp"
+                android:fontFamily="@font/alataregular"
+                android:background="@drawable/mascotalogo"
+                android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="100dp"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_mascota2"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:fontFamily="@font/alataregular"
+                android:background="@drawable/mascotalogo"
+                android:layout_gravity="center"
+
+                />
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Mascota1"
+                android:fontFamily="@font/alataregular"
+                android:layout_gravity="center"
+                android:textSize="17sp"
+                />
+
+            <TextView/>
+
+            <TextView
+                android:text="Mascota2"
+                android:layout_gravity="center"
+                android:fontFamily="@font/alataregular"
+                android:textSize="17sp"
+                />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_marginTop="35dp">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_mascota3"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:textSize="17sp"
+                android:fontFamily="@font/alataregular"
+                android:background="@drawable/mascotalogo"
+                android:layout_gravity="center"/>
+
+            <TextView/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_mascota4"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:textSize="17sp"
+                android:fontFamily="@font/alataregular"
+                android:background="@drawable/mascotalogo"
+                android:layout_gravity="center"
+
+                />
+
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Mascota3"
+                android:fontFamily="@font/alataregular"
+                android:layout_gravity="center"
+                android:textSize="17sp"
+                />
+
+            <TextView/>
+
+            <TextView
+                android:text="Mascota4"
+                android:layout_gravity="center"
+                android:fontFamily="@font/alataregular"
+                android:textSize="17sp"
+                />
+
+        </TableRow>
+
+
+
+
+
+
+    </TableLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_agregar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/mas"
+        android:layout_gravity="end"
+        android:layout_marginTop="270dp"
+        />
+
+
+
+
+</LinearLayout>
