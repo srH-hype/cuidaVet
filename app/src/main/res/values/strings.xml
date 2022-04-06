@@ -10,5 +10,11 @@
     <string name="compras">Compras</string>
     <string name="misMascotas">Mis mascotas</string>
     <string name="emergencias">Emergencias</string>
+    <string name="nombreduenio">Nombre (dueñ@)</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="registro">Registro</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="avisoPrivasidad">Aviso de privacidad</string>
+
 
 </resources>
