@@ -27,7 +27,7 @@
         android:textSize="20sp" />
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_foro2"
+        android:id="@+id/btn_dar"
         android:layout_width="250dp"
         android:layout_height="100dp"
         android:layout_marginTop="70dp"
@@ -40,7 +40,7 @@
         android:textAllCaps="false"
         />
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_tips"
+        android:id="@+id/btn_sentarse"
         android:layout_width="250dp"
         android:layout_height="100dp"
         android:text="@string/setarse"
@@ -53,7 +53,7 @@
         android:textAllCaps="false"
         />
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_habitosSaludables"
+        android:id="@+id/btn_ir"
         android:layout_width="250dp"
         android:layout_height="100dp"
         android:text="@string/ir"

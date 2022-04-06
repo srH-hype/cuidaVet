@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CuidaVet">
         <activity
+            android:name=".irActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sentarseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".darpatitaActivity"
+            android:exported="false" />
+        <activity
             android:name=".Compras2"
             android:exported="false" />
         <activity

@@ -15,5 +15,23 @@ class entrenamientoActivity : AppCompatActivity() {
             var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)
         }
+
+        val button2: Button = findViewById(R.id.btn_dar)
+        button2.setOnClickListener{
+            var intent: Intent = Intent (this, darpatitaActivity::class.java)
+            startActivity(intent)
+        }
+
+        val button3: Button = findViewById(R.id.btn_dar)
+        button3.setOnClickListener{
+            var intent: Intent = Intent (this, sentarseActivity::class.java)
+            startActivity(intent)
+        }
+
+        val button4: Button = findViewById(R.id.btn_ir)
+        button4.setOnClickListener{
+            var intent: Intent = Intent (this, irActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
