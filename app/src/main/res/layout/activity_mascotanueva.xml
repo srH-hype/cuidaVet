@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_regresarMascota"
+        android:layout_width="50dp"
+        android:layout_height="70dp"
+        android:background="@drawable/regresar"
+        />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/tv_mascotas"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@drawable/entrenamiento"
+        android:fontFamily="@font/alataregular"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="17dp"
+        />
+
+
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_agregar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/mas"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        />
+
+
+
+
+</LinearLayout>

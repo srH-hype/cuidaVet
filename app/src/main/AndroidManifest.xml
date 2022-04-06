@@ -10,11 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CuidaVet">
         <activity
-<<<<<<< Updated upstream
+            android:name=".mascotanuevaActivity"
+            android:exported="false" />
+        <activity
             android:name=".Registro2_Activity"
-=======
-            android:name=".MascotasActivity"
->>>>>>> Stashed changes
             android:exported="false" />
         <activity
             android:name=".AvisoPrivacidadActivity"
