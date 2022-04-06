@@ -68,7 +68,8 @@
                 android:background="@drawable/calendario"
                 android:layout_gravity="center"/>
 
-            <TextView/>
+            <TextView
+                android:layout_width="100dp"/>
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/btn_foro"
@@ -178,7 +179,7 @@
                 android:layout_gravity="center"
                 />
 
-
+            <TextView/>
 
             <TextView
                 android:text="@string/emergencias"
