@@ -6,7 +6,7 @@
     android:background="@color/white">
 
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/btn_flcheaRegresar"
+        android:id="@+id/btn_flcheaRegresar_registro2"
         android:layout_width="122dp"
         android:layout_height="30dp"
         android:layout_marginLeft="5dp"
@@ -14,8 +14,8 @@
         android:background="@drawable/flecha" />
 
     <TextView
-        android:id="@+id/ed_registro"
-        android:layout_width="170dp"
+        android:id="@+id/ed_registro2"
+        android:layout_width="200dp"
         android:layout_height="30dp"
         android:layout_gravity="center"
         android:layout_marginTop="0dp"
@@ -25,14 +25,22 @@
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textColorHint="@color/white"
-        android:textSize="17sp" />
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="240dp"
+        android:layout_height="205dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/fondochicocolor" />
 
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/ed_nombreDuenio"
-        android:layout_width="170dp"
+        android:id="@+id/ed_nombreMascota"
+        android:layout_width="200dp"
         android:layout_height="28dp"
-        android:layout_marginTop="70dp"
-        android:hint="@string/nombreduenio"
+        android:layout_marginTop="30dp"
+        android:hint="@string/nombreMascota"
         android:textSize="17sp"
         android:gravity="center_vertical"
         android:paddingLeft="14dp"
@@ -43,74 +51,46 @@
         android:textAllCaps="false"
         />
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/ed_correo"
-        android:layout_width="170dp"
+        android:id="@+id/ed_edadMascota"
+        android:layout_width="200dp"
         android:layout_height="28dp"
-        android:hint="@string/correo"
+        android:hint="@string/edad"
         android:textSize="17sp"
         android:gravity="center_vertical"
         android:paddingLeft="14dp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_edittext"
         android:layout_gravity="center"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="30dp"
         android:textAllCaps="false"
         />
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/ed_usuarioRegistro"
-        android:layout_width="170dp"
+        android:id="@+id/ed_razaMascota"
+        android:layout_width="200dp"
         android:layout_height="28dp"
-        android:hint="@string/usuario"
+        android:hint="@string/raza"
         android:textSize="17sp"
         android:gravity="center_vertical"
         android:paddingLeft="14dp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_edittext"
         android:layout_gravity="center"
-        android:layout_marginTop="50dp"
-        android:textAllCaps="false"
-        />
-    <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/ed_contraRegistro"
-        android:layout_width="170dp"
-        android:layout_height="28dp"
-        android:hint="@string/contra"
-        android:textSize="17sp"
-        android:gravity="center_vertical"
-        android:paddingLeft="14dp"
-        android:fontFamily="@font/alataregular"
-        android:background="@drawable/round_edittext"
-        android:layout_gravity="center"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="30dp"
         android:textAllCaps="false"
         />
 
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/btn_siguiente"
-        android:layout_width="120dp"
+        android:id="@+id/btn_empezar"
+        android:layout_width="140dp"
         android:layout_height="28dp"
-        android:hint="@string/siguiente"
+        android:hint="@string/empezar"
         android:textSize="17sp"
         android:textAlignment="center"
         android:paddingLeft="14dp"
         android:fontFamily="@font/alataregular"
         android:background="@drawable/round_button_white"
         android:layout_gravity="center"
-        android:layout_marginTop="50dp"
-        android:textAllCaps="false"
-        />
-    <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/btn_avisoPrivacidad"
-        android:layout_width="200dp"
-        android:layout_height="23dp"
-        android:hint="@string/avisoPrivasidad"
-        android:textSize="12sp"
-        android:textAlignment="center"
-        android:paddingLeft="14dp"
-        android:fontFamily="@font/alataregular"
-        android:background="@drawable/round_edittext"
-        android:layout_gravity="center"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="110dp"
         android:textAllCaps="false"
         />
 

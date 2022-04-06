@@ -16,7 +16,7 @@ class Registro : AppCompatActivity() {
             startActivity(intent)
         }
         val botonAvisoPrivacidad: Button = findViewById(R.id.btn_avisoPrivacidad)
-        button.setOnClickListener{
+        botonAvisoPrivacidad.setOnClickListener{
             var intent: Intent = Intent (this, AvisoPrivacidadActivity::class.java)
             startActivity(intent)
         }

@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CuidaVet">
         <activity
+            android:name=".Registro2_Activity"
+            android:exported="false" />
+        <activity
             android:name=".AvisoPrivacidadActivity"
             android:exported="false" />
         <activity

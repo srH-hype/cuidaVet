@@ -5,21 +5,20 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class AvisoPrivacidadActivity : AppCompatActivity() {
+class Registro2_Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_aviso_privacidad)
+        setContentView(R.layout.activity_registro2)
 
-        val button: Button = findViewById(R.id.btn_hecho)
-        button.setOnClickListener{
+        val buttonFlechaRegistro: Button = findViewById(R.id.btn_flcheaRegresar_registro2)
+        buttonFlechaRegistro.setOnClickListener{
             var intent: Intent = Intent (this, Registro::class.java)
             startActivity(intent)
         }
-        val buttonflecha: Button = findViewById(R.id.btn_flechaRegresar_registro)
-        buttonflecha.setOnClickListener{
-            var intent: Intent = Intent (this, Registro::class.java)
+        val buttonEmpezar: Button = findViewById(R.id.btn_empezar)
+        buttonEmpezar.setOnClickListener{
+            var intent: Intent = Intent (this, menuActivity::class.java)
             startActivity(intent)
         }
     }
-
 }

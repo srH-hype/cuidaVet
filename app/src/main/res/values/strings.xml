@@ -16,7 +16,10 @@
     <string name="siguiente">Siguiente</string>
     <string name="avisoPrivasidad">Aviso de privacidad</string>
     <string name="hecho">Hecho</string>
-
+    <string name="nombreMascota">Nombre de la mascota</string>
+    <string name="edad">Edad</string>
+    <string name="raza">Raza</string>
+    <string name="empezar">Empezar</string>
     <string name="privacidadTexto">Lorem ipsum dolor sit\n amet, consectetuer\n adipiscing elit. Aenean\n commodo ligula eget\n dolor. Aenean massa.\n Cum sociis natoque\n penatibus et magnis\n dis parturient montes,\n nascetur ridiculus mus.</string>
 
 
