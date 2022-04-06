@@ -8,15 +8,26 @@
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/flower_button.xml" value="0.13" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_button.xml" value="0.13" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_button_tips.xml" value="0.164" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_button_white.xml" value="0.13" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/drawable/round_edittext.xml" value="0.13" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_aviso_privacidad.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_banios.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_calendario.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_caminar.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_citas_veterinario.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_emergencia.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_foro.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_foro2.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_foro3.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_habitos_saludables.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_horarios.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_login.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_menu.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_registro.xml" value="0.25" />
         <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_registro2.xml" value="0.209375" />
+        <entry key="..\:/Users/Usuario/Documents/GitHub/cuidaVet/app/src/main/res/layout/activity_tips.xml" value="0.25" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/flower_button.xml" value="0.2535" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_button.xml" value="0.2485" />
         <entry key="..\:/Users/boble/AndroidStudioProjects/cuidaVet/app/src/main/res/drawable/round_button_white.xml" value="0.2485" />

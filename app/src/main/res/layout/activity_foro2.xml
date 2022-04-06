@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_flechaRegresarForo"
+        android:layout_width="122dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/flecha" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="582dp"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_marginTop="15dp"
+            android:background="@color/magenta" />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:stretchColumns="3">
+
+            <TableRow>
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/foro" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+        </TableLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_marginTop="0dp"
+            android:background="@color/magenta" />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:stretchColumns="3">
+
+            <TableRow>
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/foro" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+        </TableLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_marginTop="0dp"
+            android:background="@color/magenta" />
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:stretchColumns="3">
+
+            <TableRow>
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/foro" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="30dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="250dp"
+                    android:layout_height="5dp"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/magenta" />
+            </TableRow>
+
+        </TableLayout>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="6dp"
+            android:layout_marginTop="0dp"
+            android:background="@color/magenta" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_mas"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="350dp"
+        android:background="@drawable/botonMas" />
+
+</LinearLayout>
+

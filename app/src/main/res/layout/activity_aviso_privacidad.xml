@@ -6,7 +6,7 @@
     android:background="@color/white">
 
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_flechaRegresar_registro"
         android:layout_width="122dp"
         android:layout_height="30dp"
@@ -41,11 +41,11 @@
         android:textAlignment="center"
         android:textSize="30sp" />
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_hecho"
         android:layout_width="120dp"
         android:layout_height="28dp"
-        android:hint="@string/hecho"
+        android:text="@string/hecho"
         android:textSize="17sp"
         android:textAlignment="center"
         android:paddingLeft="14dp"

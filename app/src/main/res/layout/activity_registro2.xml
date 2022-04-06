@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/white">
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_flcheaRegresar_registro2"
         android:layout_width="122dp"
         android:layout_height="30dp"
@@ -79,7 +79,7 @@
         android:textAllCaps="false"
         />
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_empezar"
         android:layout_width="140dp"
         android:layout_height="28dp"

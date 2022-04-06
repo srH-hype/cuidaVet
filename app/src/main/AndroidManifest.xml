@@ -10,6 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CuidaVet">
         <activity
+            android:name=".CalendarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CitasVeterinarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BaniosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HorariosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CaminarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TipsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Foro3_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Foro2_Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ForoActivity"
+            android:exported="false" />
+        <activity
             android:name=".Registro2_Activity"
             android:exported="false" />
         <activity

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@color/white">
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_flcheaRegresar"
         android:layout_width="122dp"
         android:layout_height="30dp"
@@ -85,11 +85,11 @@
         android:textAllCaps="false"
         />
 
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_siguiente"
         android:layout_width="120dp"
         android:layout_height="28dp"
-        android:hint="@string/siguiente"
+        android:text="@string/siguiente"
         android:textSize="17sp"
         android:textAlignment="center"
         android:paddingLeft="14dp"
@@ -99,11 +99,11 @@
         android:layout_marginTop="50dp"
         android:textAllCaps="false"
         />
-    <androidx.appcompat.widget.AppCompatEditText
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_avisoPrivacidad"
         android:layout_width="200dp"
         android:layout_height="23dp"
-        android:hint="@string/avisoPrivasidad"
+        android:text="@string/avisoPrivasidad"
         android:textSize="12sp"
         android:textAlignment="center"
         android:paddingLeft="14dp"
