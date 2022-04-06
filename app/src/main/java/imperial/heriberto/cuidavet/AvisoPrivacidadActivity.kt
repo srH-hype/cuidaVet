@@ -15,6 +15,11 @@ class AvisoPrivacidadActivity : AppCompatActivity() {
             var intent: Intent = Intent (this, Registro::class.java)
             startActivity(intent)
         }
+        val buttonflecha: Button = findViewById(R.id.btn_flechaRegresar_registro)
+        button.setOnClickListener{
+            var intent: Intent = Intent (this, Registro::class.java)
+            startActivity(intent)
+        }
     }
 
 }

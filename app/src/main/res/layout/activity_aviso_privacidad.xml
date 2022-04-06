@@ -7,7 +7,7 @@
 
 
     <androidx.appcompat.widget.AppCompatEditText
-        android:id="@+id/btn_flcheaRegresar"
+        android:id="@+id/btn_flechaRegresar_registro"
         android:layout_width="122dp"
         android:layout_height="30dp"
         android:layout_marginLeft="5dp"
