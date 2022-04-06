@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.google.android.material.appbar.AppBarLayout
 
 class menuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -21,5 +22,9 @@ class menuActivity : AppCompatActivity() {
             var intent: Intent = Intent (this, MascotasActivity::class.java)
             startActivity(intent)
         }
+
+
+
+
     }
 }
