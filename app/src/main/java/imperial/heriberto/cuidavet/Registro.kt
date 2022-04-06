@@ -20,5 +20,6 @@ class Registro : AppCompatActivity() {
             var intent: Intent = Intent (this, AvisoPrivacidadActivity::class.java)
             startActivity(intent)
         }
+
     }
 }
