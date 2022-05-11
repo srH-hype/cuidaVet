@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385921088742",
+    "project_id": "cuidavet-87895",
+    "storage_bucket": "cuidavet-87895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385921088742:android:451a0d316d881b9ae28f27",
+        "android_client_info": {
+          "package_name": "imperial.heriberto.cuidavet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385921088742-bvobu55qrdtdfc6lddaqs9gj74q5hphj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVmm87mbOjb3EA0i0niKd2mRndWcjNyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385921088742-bvobu55qrdtdfc6lddaqs9gj74q5hphj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
