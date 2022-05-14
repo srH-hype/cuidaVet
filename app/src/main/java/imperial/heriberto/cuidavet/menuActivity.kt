@@ -33,7 +33,7 @@ class menuActivity : AppCompatActivity() {
 
         val button4: androidx.appcompat.widget.AppCompatButton = findViewById(R.id.btn_calendario)
         button4.setOnClickListener{
-            var intent: Intent = Intent (this, CalendarioActivity::class.java)
+            var intent: Intent = Intent (this, MainActivityCalendar::class.java)
             startActivity(intent)
         }
 

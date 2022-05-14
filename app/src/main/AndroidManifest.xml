@@ -88,6 +88,20 @@
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
+            android:name=".DailyCalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventEditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".WeekViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivityCalendar"
+            android:exported="false" />
+
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
