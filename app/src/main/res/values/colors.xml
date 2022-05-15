@@ -12,4 +12,6 @@
     <color name="amarrillo">#f7ec13</color>
     <color name="gris">#b7b7b7</color>
     <color name="blue">#4aa9d9</color>
+
+    <color name="lightGray">#EEE</color>
 </resources>

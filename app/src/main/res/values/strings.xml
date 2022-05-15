@@ -57,5 +57,8 @@
     <string name="nueva_contrase_a">Nueva Contraseña</string>
     <string name="contrasena_actual">Contraseña Actual</string>
 
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
 
 </resources>
