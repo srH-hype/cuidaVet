@@ -74,6 +74,7 @@
         android:layout_width="170dp"
         android:layout_height="28dp"
         android:hint="@string/contra"
+        android:inputType="textPassword"
         android:textSize="17sp"
         android:gravity="center_vertical"
         android:paddingLeft="14dp"
